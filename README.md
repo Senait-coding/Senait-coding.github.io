@@ -8,7 +8,7 @@ I developed my first **GitHub Pages Website** as a way of practicing my projects
   
 ## Steps
 
-  1. Create new repository in my user name: e.g UserName.github.io
+  1. Create new repository in my user name: e.g yourUserName.github.io
   2. Turn on GitHub Pages (new repo.-> setting-> turn on GItHub Pages)
   3. Create index.html file
   4. Create style.CSS sheet
