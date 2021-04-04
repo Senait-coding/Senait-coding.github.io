@@ -3,7 +3,7 @@
 html,body{
     color:white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    display: flex;
+    display:flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;}
@@ -34,7 +34,8 @@ h1{color: rgb(3, 26, 8);}
 letter-spacing: 1px;
 width:100%;
 margin:0;}
-.content h2{ font-weight:200;}
+.content h2{ font-weight:200;
+    font-weight: bold;}
 
 div.social i{ padding: 0 10px;
 font-size: 40px;
