@@ -28,21 +28,23 @@ img{border-radius: 30%;
 .content{
     padding: 10px;
 }
-h1{color: rgb(3, 26, 8);}
-.content h2,p{font-weight:300;
-    color: rgb(13, 34, 13);
+h1{color: rgb(105, 3, 17);
+   transition: 6s;
+}
+.content h2,p{font-weight:200;
+    color: rgba(17, 43, 21, 0.795);
 letter-spacing: 1px;
 width:100%;
 margin:0;}
-.content h2{ font-weight:200;
+.content h2{ font-weight:100;
     font-weight: bold;}
 
 div.social i{ padding: 0 10px;
 font-size: 40px;
-color:royalblue;
+color:rgb(122, 9, 37);
 transition: 0.4s;
 }
-div.social i:hover{color:rgb(65, 33, 52);}
+div.social i:hover{color:rgb(13, 7, 65);}
 
 
 
