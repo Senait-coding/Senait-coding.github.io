@@ -1,6 +1,6 @@
 # Hello
 
-I developed my first **HomePage** as a means of practicing my projects.
+I developed my first **GitHub Pages Website** as a means of practicing my projects.
 
 ## Tools used
 
