@@ -1,10 +1,7 @@
 # **INTERVIEW NOTES**
 
-## First Interview
-
-
- - Tatsiana Rudnik  
-- Senait 
+ - Tatsiana Rudnik  ( Project UX-UI designer)
+- Senait (Project owner,web developer)
 ## About Senait
 
 She was born in Ethiopia and she live in Belgium 6 years and she do all her best to become a cool web developer & web designer.
@@ -24,7 +21,7 @@ She was born in Ethiopia and she live in Belgium 6 years and she do all her best
 ---
 
 ### Professional experience
-*  15 years experience in UN/NGO in logistics
+*  15 years experience in NGO in logistics
 
 ### Education
 * HYF (web developer)
@@ -41,14 +38,15 @@ She was born in Ethiopia and she live in Belgium 6 years and she do all her best
 - A careful mother and family woman.
 - A very creative person
 
-### Who they want to see his page
+### Who she want to see her page
 - Anyone is welcome
  
 - Potential employers from companies (startups). 
 
-### How will these people interact with his page
+### How will these people interact with her page
 - Reading Senaits personal information or story (text blocks).
 - Looking at the photos.
 - Discovering portfolio/resume/social media accounts,youtube channel
 - People will be able to contact her back (contacts).
 
+ 
