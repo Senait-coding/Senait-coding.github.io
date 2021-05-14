@@ -96,7 +96,7 @@ margin:50px;
 
 
 .about{
-    top: 80px;
+    top: 60px;
     position: absolute;
     width: 1300px;
     height: 200px;
@@ -190,7 +190,7 @@ ul a{text-decoration:none ;}
 /*project section starts*/
 
         .projects-text{
-            top: 100px;
+            top: 90px;
             position: absolute;
             width: 1300px;
             height: 200px;
