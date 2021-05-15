@@ -169,7 +169,7 @@ ul a{text-decoration:none ;}
     text-decoration:none;}
     
     .return-arrow{
-        top: 400px;
+        top: 1OOpx;
         position: absolute;
         width: 150px;
         height: 100px;
@@ -243,7 +243,7 @@ ul a{text-decoration:none ;}
 
             /*contact Starts*/
             .contact-box{
-                top: 330px;
+                top: 350px;
                 position: absolute;
                 width: 800x;
                 height: 300px;
@@ -277,7 +277,7 @@ font-size: 30px;
     color: rgba(244, 255, 174, 1);
 
 } .return-arrow3{
-    top: 600px;
+    top: 300px;
     position: absolute;
     width: 150px;
     height: 100px;
