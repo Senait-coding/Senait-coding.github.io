@@ -301,7 +301,7 @@ h2{
 
 
 
-.html{
+.html1{
 	width:85%;
 	transition:3s;
   font-size: 10px;
@@ -314,7 +314,7 @@ h2{
     -webkit-transform: translateZ(0);
 }
 
-.css{
+.css1{
   width: 80%;
   background-color: #5c715e;
   transition:2s;
@@ -322,7 +322,7 @@ h2{
   color: white;
 }
 
-.js{
+.js1{
   width: 65%;
   background-color: #5c715e;
   transition:2s;
@@ -330,7 +330,7 @@ h2{
   color: white;
 }
 
-.php {
+.php1 {
   width: 60%;
   background-color: #5c715e;
   transition:2s;
@@ -338,7 +338,7 @@ h2{
   color: white;
 }
 
-.node{
+.node1{
   width: 75%;
   background-color: #5c715e;
   transition:2s;
@@ -346,7 +346,7 @@ h2{
   color: white;
 }
 
-.vue{
+.vue1{
   width: 65%;
   background-color: #5c715e;
   transition:2s;
@@ -354,7 +354,7 @@ h2{
   color: white;
 }
 
-.mongo {
+.mongo1 {
   width: 65%;
   background-color: #5c715e;
   transition:2s;
@@ -362,7 +362,7 @@ h2{
   color: white;
 }
 
-.sql{
+.sql1{
   width: 65%;
   background-color: #5c715e;
   transition:2s;
@@ -370,7 +370,7 @@ h2{
   color: white;
 }
 
-.github {
+.github1 {
   width: 90%;
   background-color: #5c715e;
   transition:2s;
@@ -378,7 +378,7 @@ h2{
   color: white;
 }
 
-.git{
+.git1{
   width: 75%;
   background-color: #5c715e;
   transition:2s;
