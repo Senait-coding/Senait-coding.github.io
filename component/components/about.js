@@ -14,10 +14,10 @@ class Header extends HTMLElement {
         <p class="about-me">Hello, <b>I'm Senait,</b>I'm Junior web developer ,I am a creative designer and developer,I offer both design and development services of websites.</p>
           <h2 class="my-skills">Technical-Skills</h2>
           <div class="bar">
-            <div class="skills html">HTML<span>85%</span></div>
+            <div class="skills html">HTML<span>80%</span></div>
           </div>
           <div class="bar">
-            <div class="skills css">CSS<span>80%</span></div>
+            <div class="skills css">CSS<span>75%</span></div>
           </div>
           
           <div class="bar">
@@ -45,11 +45,11 @@ class Header extends HTMLElement {
           </div>
   
           <div class="bar">
-            <div class="skills github">Github<span>90%</span></div>
+            <div class="skills github">Github<span>75%</span></div>
           </div>
       
           <div class="bar">
-            <div class="skills git">GIT<span>75%</span></div>
+            <div class="skills git">GIT<span>65%</span></div>
           </div>
         </div>
           </div>
